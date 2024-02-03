@@ -22,4 +22,4 @@ jobs:
     - uses: fakerepo/comment-on-pr@v1
       with:
         message: |
-          Thank you!
+          Thank you Very Much!
